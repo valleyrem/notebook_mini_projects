@@ -1,0 +1,15 @@
+Metric,Montessori (Mean),Traditional (Mean),p-value,Cohen's d
+Language Skills,78.5,72.8,0.032,0.67
+Language Skills Preschool Age,75.2,70.1,0.045,0.59
+Language Skills School Age,81.8,75.5,0.021,0.71
+Math Skills,82.3,76.9,0.054,0.48
+Math Skills Preschool Age,79.6,75.2,0.072,0.41
+Math Skills School Age,85.1,78.6,0.038,0.56
+Memory,68.9,64.2,0.012,0.82
+Memory Preschool Age,66.2,62.8,0.028,0.71
+Memory School Age,71.6,65.6,0.009,0.92
+Creativity,87.4,80.3,0.018,0.76
+Creativity Preschool Age,84.8,79.5,0.031,0.68
+Creativity School Age,90.1,82.6,0.013,0.83
+Well-being Level,4.5,4.2,0.037,0.64
+
